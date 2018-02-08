@@ -5,6 +5,7 @@ public class Test {
     private   int b;
 
     int    c;
+    int  d;
     public int getA() {
         return a;
     }
